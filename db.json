@@ -1,0 +1,123 @@
+{
+    "curso": [
+        {
+            "id": "1",
+            "nome": "Ciência da Computação",
+            "id_curso": "031",
+            "grad": "Bacharelado"
+        },
+        {
+            "id": "2",
+            "nome": "Sistemas de Informação",
+            "id_curso": "083",
+            "grad": "Tecnologo"
+        }
+    ],
+    "disciplinas": [
+        {
+            "id": "001",
+            "nome": "Calculo IA",
+            "departamento": "GMA - Departamento de Matemática Aplicada",
+            "codigo": "GMA00019",
+            "carga_horaria": 60,
+            "ementa": [
+                "Funções de uma variável real",
+                "Limites",
+                "Continuidade",
+                "Derivadas",
+                "Aplicações da derivada",
+                "Fórmula de Taylor",
+                "Anti-Diferenciação"
+            ]
+        },
+        {
+            "id": "002",
+            "nome": "Programação de Computadores I",
+            "departamento": "TCC - Departamento de Ciência da Computação",
+            "codigo": "TCC00308",
+            "carga_horaria": 60,
+            "ementa": [
+                "Introdução a algoritmos e lógica de programação",
+                "Introdução ao ambiente de desenvovlvimento Python 3",
+                "Tipos de Dados",
+                "Operadores",
+                "Tipos Agregados",
+                "Comandos e Estruturas de Controle",
+                "Subprogramação e escopo de variáveis",
+                "Módulos",
+                "Métodos de ordenação",
+                "Entrada e Saída através de arquivos texto"
+            ]
+        },
+        {
+            "id": "003",
+            "nome": "Estruturas de Dados e seus Algoritmos",
+            "departamento": "TCC - Departamento de Ciência da Computação",
+            "codigo": "TCC00348",
+            "carga_horaria": 60,
+            "ementa": [
+                "Árvores",
+                "Grafos",
+                "Ordenação",
+                "Tabelas de Dispersão",
+                "Árvores B e B+",
+                "Heaps"
+            ]
+        },
+        {
+            "id": "004",
+            "nome": "Interface Homem-Máquina",
+            "departamento": "TCC - Departamento de Ciência da Computação",
+            "codigo": "TCC00298",
+            "carga_horaria": 60,
+            "ementa": [
+                "Motivação",
+                "Qualidade de Uso",
+                "Design e Avaliação",
+                "Framework DECIDE",
+                "Engenharia Cognitiva",
+                "Travessia de Golfos",
+                "Percurso Cognitivo",
+                "Heurísticas",
+                "Teste de Usabilidade",
+                "Comunicabilidade",
+                "Projeto de IHC",
+                "Processos de Design",
+                "Modelagem de Tarefa",
+                "Modelagem de Interação",
+                "Prototipação"
+            ]
+        },
+        {
+            "id": "005",
+            "nome": "Bancos de Dados não Convencionais",
+            "departamento": "TCC - Departamento de Ciência da Computação",
+            "codigo": "TCC00336",
+            "carga_horaria": 60,
+            "ementa": [
+                "Data Warehouse",
+                "Tomada de Decisão nas organizações",
+                "OLTP vs OLAP",
+                "ETL",
+                "Big Data",
+                "Bancos NoSql",
+                "Bancos de Dados nas Nuvens",
+                "Map Reduce"
+            ]
+        },
+        {
+            "id": "006",
+            "nome": "Redes de Computadores I",
+            "departamento": "TCC - Departamento de Ciência da Computação",
+            "codigo": "TCC00313",
+            "carga_horaria": 60,
+            "ementa": [
+                "Redes e Internet",
+                "Conceitos Básicos e Terminologias",
+                "Cmada de Aplicação",
+                "Camada de Transporte",
+                "Camada de Rede"
+            ]
+        }    
+    ]
+}
